@@ -1,4 +1,4 @@
-# 🤖 NexBot — Context-Aware Chatbot
+# 🤖 MemoryBot — Chatbot
 
 A chatbot that remembers previous messages and responds contextually using LangChain + Groq + Streamlit.
 
